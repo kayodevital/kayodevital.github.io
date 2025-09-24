@@ -1,6 +1,6 @@
 baseURL = 'https://kayodevital.github.io/'
 languageCode = 'pt-br'
-title = 'My New Hugo Site'
+title = 'Ferramentas de Inteligência Artificial'
 theme = 'lugo'
 [caches]
   [caches.images]
