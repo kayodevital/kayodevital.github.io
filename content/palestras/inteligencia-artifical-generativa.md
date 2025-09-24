@@ -4,4 +4,4 @@ title = 'Inteligência Artifical Generativa  - Dr. Tsang Ing Ren'
 tags = ['IA', 'Palestras']
 +++
 
-[Inteligência Artificial Generativa: Histórico e Perspectivas](/inteligencia-artificial-generativa)
+[Inteligência Artificial Generativa: Histórico e Perspectivas](/ia-generativa.pdf)
