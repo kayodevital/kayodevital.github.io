@@ -1,0 +1,7 @@
+baseURL = 'https://kayodevital.github.io/'
+languageCode = 'pt-br'
+title = 'My New Hugo Site'
+theme = 'lugo'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
