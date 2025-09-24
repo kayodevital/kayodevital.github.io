@@ -4,3 +4,5 @@ title = 'Team based learning'
 tags = ['artigos']
 +++
 O seguinte artigo aborda o método de aprendizado team based learnig.
+
+[Aprendizagem baseada em equipes: da teoria à prática](tbl.pdf)
